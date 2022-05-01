@@ -1,3 +1,3 @@
-"# 
-My Personal Web portfolio @
+# My Personal Web portfolio @
+
 techopus.github.io" 
